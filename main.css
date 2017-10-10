@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 95px;
+
+}
+h1 {
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-family: Amatic SC;
+
+
+}
+
+.inputSection {
+  margin: 15px 0px 20px 0px;
+  width: 400px;
+
+}
+
+.inputs {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  font-family: Amatic SC;
+
+
+}
+input{
+  margin-top: 10px;
+
+}
+
+.addOption {
+  margin-top: 10px;
+
+}
+button {
+  background-color: pink;
+  font-weight: bold;
+  font-family: Amatic SC;
+  padding: 5px;
+  font-size: 20px;
+
+}
