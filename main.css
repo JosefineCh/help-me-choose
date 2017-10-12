@@ -30,7 +30,7 @@ h1 {
 
 
 }
-input{
+input {
   margin-top: 10px;
 
 }
@@ -45,5 +45,14 @@ button {
   font-family: Amatic SC;
   padding: 5px;
   font-size: 20px;
+
+}
+
+.resultSection {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
 
 }
